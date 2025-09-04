@@ -1,0 +1,5 @@
+streamlit
+pandas
+matplotlib
+
+# Optional (if you use caching with st.cache_data, Streamlit >=1.18 recommended)
